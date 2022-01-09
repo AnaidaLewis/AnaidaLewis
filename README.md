@@ -1,4 +1,4 @@
-<h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Wave.gif" style = "width: 20px; height:30px"> </h1>
+<h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Wave.gif" style = "width: 40px; height:40px"> </h1>
 
 I'm 
  🔭 I’m currently working on **Web Development**
