@@ -10,8 +10,8 @@ I'm
 
 - 📫 How to reach me: 
 <ul>
-<li>  **Gmail : anaidallewis@gmail.com** </li>
-<li>  **LinkedIn : https://www.linkedin.com/in/anaida-lewis-85b2141bb/** </li>
+<li>**Gmail : anaidallewis@gmail.com**</li>
+<li> **LinkedIn : https://www.linkedin.com/in/anaida-lewis-85b2141bb/**</li>
 </ul>
 
 - ⚡ Fun fact: I can solve the rubik's cube in under 2 minutes 🥳
