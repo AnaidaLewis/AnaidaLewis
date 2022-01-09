@@ -9,7 +9,7 @@
 - 🎓 Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.
 
 - 👯 I’m looking to collaborate on **Open Source and Web dev** 
--
+
 - ⚡Fun fact: I can solve the rubik's cube in under 2 minutes 🥳
 
 - 📫 How to reach me: 
