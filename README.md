@@ -9,6 +9,6 @@
 - 👯 I’m looking to collaborate on **Open Source and Web dev** 
 
 - 📫 How to reach me: 
- How to reach me:<ul> <li >Gmail:*anaidallewis@gmail.com</li><li>Linkedin: https://www.linkedin.com/in/anaida-lewis-85b2141bb/**</li></ul>*</li></ul>
+ How to reach me:<ul> <li >Gmail:*anaidallewis@gmail.com</li><li>Linkedin: https://www.linkedin.com/in/anaida-lewis-85b2141bb/</li></ul>*</li></ul>
 
 - ⚡ Fun fact: I can solve the rubik's cube in under 2 minutes 🥳
