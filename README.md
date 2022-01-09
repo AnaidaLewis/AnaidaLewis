@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center"> Hi there <img src = "https://raw.githubusercontent.com/NoobMahbub/NoobMahbub/main/Wave.gif"> </h1>
 
-<!--
-**AnaidaLewis/AnaidaLewis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+I'm 
+ 🔭 I’m currently working on **Web Development**
+- 🌱 I’m currently learning **Machine Learning and IOT**
+- 🎓 Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
+- 👯 I’m looking to collaborate on **
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me: 
+  **Gmail : anaidallewis@gmail.com**
+  **LinkedIn : https://www.linkedin.com/in/anaida-lewis-85b2141bb/**
+
+- ⚡ Fun fact: I can solve the rubik's cube in under 2 minutes 🥳
