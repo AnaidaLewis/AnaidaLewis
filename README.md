@@ -38,3 +38,34 @@
 <h3>Databases:</h3> 
 
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+<h2>📈 GitHub Statistics:</h2> 
+
+<div align="center">
+  <h4>General Statistics</h4>
+  <img alt="GitHub General Stats" src="https://github-readme-stats.vercel.app/api?username=AnaidaLewis&count_private=true&show_icons=true&hide_title=true&hide_border=true&theme=chartreuse-dark" />
+  <hr />
+
+  <h4>Most Used Languages</h4>
+  <img alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnaidaLewis&card_width=600&hide_title=true&hide_border=true&layout=compact&bg_color=0D1117&text_color=C9D1D9" />
+  <hr />
+
+  <h4>Contribution Graph</h4>
+  <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=AnaidaLewis&theme=react-dark&hide_border=true&hide_title=true&area=true" />
+  <hr />
+
+  <h4>Streak Statistics</h4>
+  <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=AnaidaLewis&theme=chartreuse-dark&hide_border=true" />
+ </div>
+<!-- <div align='center'>
+  
+ ![Anaida's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnaidaLewis&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true)
+  
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnaidaLewis&layout=compact)](https://github.com/anuraghazra/github-readme-stats&hide_border=true)
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnaidaLewis&theme=chartreuse-dark&hide_border=true)](https://git.io/streak-stats)
+ 
+ ![Anaida's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnaidaLewis&theme=react-dark&hide_border=true)
+ 
+  ![GitHub Metrics](https://github.com/AnaidaLewis/AnaidaLewis/blob/main/github-metrics.svg)
+ <div/> -->
