@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Machine Learning and IOT**
 
-- 🎓 Second Year Computer Engineering student at D. J. Sanghvi College of Engineering.
+- 🎓 Third Year Computer Engineering student at D. J. Sanghvi College of Engineering.
 
 - 👯 I’m looking to collaborate on **Open Source and Web dev** 
 
